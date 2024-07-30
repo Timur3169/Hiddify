@@ -101,10 +101,10 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇳🇱 𝐈𝐑𝐂𝐏\n@XrayHash § hy2+ech",
-        "🇳🇱 𝐈𝐑𝐂𝐏\n@XrayHash § vl+ws+tls+cdn+frag",
-        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟏 | 𝐢𝐩𝐯𝟔\n@XrayHash § hy2+ech",
-        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟐 | 𝐢𝐩𝐯𝟔\n@XrayHash § hy2+ech"
+        "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § hy2+ech",
+        "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § vl+ws+tls+cdn+frag",
+        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟏 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech",
+        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟐 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech"
       ],
       "default": "auto"
     },
@@ -112,10 +112,10 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇳🇱 𝐈𝐑𝐂𝐏\n@XrayHash § hy2+ech",
-        "🇳🇱 IR AND M.A\n@XrayHash § vl+ws+tls+cdn+frag",
-        "🇳🇱 For Iran And Azadi\n@XrayHash § hy2+ech",
-        "🇳🇱 Timur\n@XrayHash § hy2+ech"
+        "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § hy2+ech",
+        "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § vl+ws+tls+cdn+frag",
+        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟏 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech",
+        "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟐 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech"
       ],
       "url": "http://www.google.com/generate_204",
       "interval": "10m0s",
@@ -123,7 +123,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇳🇱 server Azadi\n@XrayHash § hy2+ech",
+      "tag": "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § hy2+ech",
       "domain_strategy": "prefer_ipv6",
       "server": "h.88981401.xyz",
       "server_port": 443,
@@ -152,7 +152,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 Mahsa Amini\n@XrayHash § vl+ws+tls+cdn+frag",
+      "tag": "🇳🇱 𝐈𝐑𝐂𝐏\n@Xrayhash § vl+ws+tls+cdn+frag",
       "domain_strategy": "prefer_ipv6",
       "tls_fragment": {
         "enabled": true,
@@ -184,7 +184,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇳🇱 Telegram and instagram\n@XrayHash § hy2+ech",
+      "tag": "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟏 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech",
       "server": "2a09:7c44:0:14::1",
       "server_port": 443,
       "obfs": {
@@ -212,7 +212,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇳🇱 plase join my channel\n@XrayHash § hy2+ech",
+      "tag": "🇳🇱 𝐈𝐑𝐂𝐏 | 𝟐 | 𝐢𝐩𝐯𝟔\n@Xrayhash § hy2+ech",
       "server": "2a09:7c44:0:140::1",
       "server_port": 443,
       "obfs": {
